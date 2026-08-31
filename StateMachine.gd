@@ -1,4 +1,4 @@
-class_name StateMachine
+class_name StateMachine 
 extends Node
 
 var current_state: int = -1:
